@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
