@@ -53,6 +53,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/GaurangNauriyal/DSA-/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
