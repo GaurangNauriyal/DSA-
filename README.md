@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Manacher
 |  |
 | ------- |
