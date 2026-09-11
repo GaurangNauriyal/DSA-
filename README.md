@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -54,6 +55,7 @@
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/GaurangNauriyal/DSA-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,8 +81,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
