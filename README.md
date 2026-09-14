@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Manacher
 |  |
 | ------- |
