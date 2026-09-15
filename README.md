@@ -15,6 +15,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [3870-count-commas-in-range](https://github.com/GaurangNauriyal/DSA-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0006-zigzag-conversion](https://github.com/GaurangNauriyal/DSA-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
 ## Sliding Window
@@ -90,6 +93,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
