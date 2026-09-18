@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
@@ -114,4 +116,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
