@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -18,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [3870-count-commas-in-range](https://github.com/GaurangNauriyal/DSA-/tree/master/3870-count-commas-in-range) |
@@ -90,6 +92,7 @@
 | [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Manacher
