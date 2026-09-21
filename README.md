@@ -22,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -74,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/GaurangNauriyal/DSA-/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
