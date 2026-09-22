@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0203-remove-linked-list-elements) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -104,6 +105,7 @@
 | [0005-longest-palindromic-substring](https://github.com/GaurangNauriyal/DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
