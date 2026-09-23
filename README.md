@@ -64,6 +64,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -71,6 +72,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
