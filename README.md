@@ -59,6 +59,7 @@
 | [0001-two-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -92,6 +93,7 @@
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0015-3sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 ## Enumeration
 |  |
 | ------- |
