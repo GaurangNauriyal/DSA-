@@ -17,6 +17,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -28,6 +29,7 @@
 | [0009-palindrome-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
@@ -161,6 +163,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -170,4 +173,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GaurangNauriyal/DSA-/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
