@@ -96,6 +96,7 @@
 | [0014-longest-common-prefix](https://github.com/GaurangNauriyal/DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/GaurangNauriyal/DSA-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
