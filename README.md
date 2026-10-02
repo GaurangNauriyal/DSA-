@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangNauriyal/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
@@ -44,6 +45,7 @@
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangNauriyal/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 ## Minimax
 |  |
