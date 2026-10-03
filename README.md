@@ -32,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/GaurangNauriyal/DSA-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/GaurangNauriyal/DSA-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
@@ -47,6 +48,7 @@
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/GaurangNauriyal/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangNauriyal/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 ## Minimax
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GaurangNauriyal/DSA-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
