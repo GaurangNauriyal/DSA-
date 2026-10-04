@@ -51,6 +51,7 @@
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/GaurangNauriyal/DSA-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangNauriyal/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -112,6 +113,7 @@
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
@@ -155,11 +157,13 @@
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
+| [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
@@ -171,6 +175,7 @@
 | [0011-container-with-most-water](https://github.com/GaurangNauriyal/DSA-/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
