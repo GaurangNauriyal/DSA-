@@ -122,6 +122,7 @@
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -170,12 +171,14 @@
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
