@@ -135,6 +135,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/GaurangNauriyal/DSA-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/GaurangNauriyal/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/GaurangNauriyal/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
