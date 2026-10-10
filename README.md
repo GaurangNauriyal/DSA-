@@ -168,6 +168,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0234-palindrome-linked-list) |
@@ -249,10 +250,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -261,6 +264,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 ## Interactive
 |  |
