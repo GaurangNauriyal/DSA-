@@ -43,6 +43,7 @@
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/GaurangNauriyal/DSA-/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/GaurangNauriyal/DSA-/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/GaurangNauriyal/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -143,6 +144,7 @@
 | [0367-valid-perfect-square](https://github.com/GaurangNauriyal/DSA-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/GaurangNauriyal/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/GaurangNauriyal/DSA-/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
