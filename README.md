@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/GaurangNauriyal/DSA-/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangNauriyal/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/GaurangNauriyal/DSA-/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -291,6 +294,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/GaurangNauriyal/DSA-/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -313,5 +317,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/GaurangNauriyal/DSA-/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
