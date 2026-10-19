@@ -39,6 +39,7 @@
 | [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GaurangNauriyal/DSA-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GaurangNauriyal/DSA-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/GaurangNauriyal/DSA-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
@@ -126,6 +127,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/GaurangNauriyal/DSA-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/GaurangNauriyal/DSA-/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
@@ -229,6 +231,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/GaurangNauriyal/DSA-/tree/master/1688-count-of-matches-in-tournament) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/3498-reverse-degree-of-a-string) |
@@ -315,6 +318,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 ## Binary Search Tree
 |  |
