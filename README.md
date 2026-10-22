@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -161,6 +162,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/GaurangNauriyal/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/GaurangNauriyal/DSA-/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
