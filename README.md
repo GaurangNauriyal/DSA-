@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/GaurangNauriyal/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -93,6 +94,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/GaurangNauriyal/DSA-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurangNauriyal/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/GaurangNauriyal/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -243,6 +245,7 @@
 | [0148-sort-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/GaurangNauriyal/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
