@@ -27,6 +27,7 @@
 | [0179-largest-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/GaurangNauriyal/DSA-/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaurangNauriyal/DSA-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/GaurangNauriyal/DSA-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/GaurangNauriyal/DSA-/tree/master/0367-valid-perfect-square) |
@@ -399,4 +402,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GaurangNauriyal/DSA-/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
