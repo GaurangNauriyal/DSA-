@@ -34,6 +34,7 @@
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -264,6 +265,7 @@
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
