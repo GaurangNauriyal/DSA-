@@ -104,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -153,6 +154,7 @@
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/1021-remove-outermost-parentheses) |
@@ -265,6 +267,7 @@
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
@@ -367,6 +370,7 @@
 | [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
