@@ -176,6 +176,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/GaurangNauriyal/DSA-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -374,6 +375,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/GaurangNauriyal/DSA-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/GaurangNauriyal/DSA-/tree/master/0374-guess-number-higher-or-lower) |
 ## Heap (Priority Queue)
 |  |
