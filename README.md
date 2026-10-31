@@ -30,6 +30,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaurangNauriyal/DSA-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurangNauriyal/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/GaurangNauriyal/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/GaurangNauriyal/DSA-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
