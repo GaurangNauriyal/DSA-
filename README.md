@@ -344,6 +344,7 @@
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/GaurangNauriyal/DSA-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/GaurangNauriyal/DSA-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -376,6 +377,7 @@
 | [0112-path-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaurangNauriyal/DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/GaurangNauriyal/DSA-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/GaurangNauriyal/DSA-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Interactive
 |  |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/GaurangNauriyal/DSA-/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/GaurangNauriyal/DSA-/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Backtracking
 |  |
