@@ -45,6 +45,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurangNauriyal/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -68,6 +69,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/GaurangNauriyal/DSA-/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurangNauriyal/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/GaurangNauriyal/DSA-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GaurangNauriyal/DSA-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
