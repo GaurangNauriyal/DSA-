@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GaurangNauriyal/DSA-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GaurangNauriyal/DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/GaurangNauriyal/DSA-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0179-largest-number) |
@@ -403,6 +404,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
