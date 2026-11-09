@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/GaurangNauriyal/DSA-/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/GaurangNauriyal/DSA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/GaurangNauriyal/DSA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/GaurangNauriyal/DSA-/tree/master/0075-sort-colors) |
@@ -104,6 +105,7 @@
 | [0012-integer-to-roman](https://github.com/GaurangNauriyal/DSA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/GaurangNauriyal/DSA-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/GaurangNauriyal/DSA-/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/GaurangNauriyal/DSA-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GaurangNauriyal/DSA-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/GaurangNauriyal/DSA-/tree/master/0169-majority-element) |
@@ -160,6 +162,7 @@
 | [0020-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/GaurangNauriyal/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/GaurangNauriyal/DSA-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/GaurangNauriyal/DSA-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/GaurangNauriyal/DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/GaurangNauriyal/DSA-/tree/master/0125-valid-palindrome) |
@@ -281,6 +284,7 @@
 | [0015-3sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GaurangNauriyal/DSA-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/GaurangNauriyal/DSA-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/GaurangNauriyal/DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0148-sort-list) |
