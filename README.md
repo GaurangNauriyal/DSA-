@@ -41,6 +41,7 @@
 | [0414-third-maximum-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -202,6 +203,7 @@
 | [0441-arranging-coins](https://github.com/GaurangNauriyal/DSA-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
