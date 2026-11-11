@@ -173,6 +173,7 @@
 | [0227-basic-calculator-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/GaurangNauriyal/DSA-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0796-rotate-string) |
@@ -240,6 +241,7 @@
 | [0234-palindrome-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0876-middle-of-the-linked-list) |
