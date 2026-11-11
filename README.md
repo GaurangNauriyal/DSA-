@@ -41,6 +41,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/GaurangNauriyal/DSA-/tree/master/0877-stone-game) |
@@ -186,6 +187,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaurangNauriyal/DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/GaurangNauriyal/DSA-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/GaurangNauriyal/DSA-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/GaurangNauriyal/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -244,6 +247,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/GaurangNauriyal/DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GaurangNauriyal/DSA-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -305,6 +309,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/GaurangNauriyal/DSA-/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GaurangNauriyal/DSA-/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
@@ -425,6 +430,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaurangNauriyal/DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaurangNauriyal/DSA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
