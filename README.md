@@ -48,6 +48,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/GaurangNauriyal/DSA-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurangNauriyal/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
