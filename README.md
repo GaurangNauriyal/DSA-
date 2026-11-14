@@ -50,6 +50,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/GaurangNauriyal/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaurangNauriyal/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/GaurangNauriyal/DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GaurangNauriyal/DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -194,6 +195,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/GaurangNauriyal/DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/GaurangNauriyal/DSA-/tree/master/0658-find-k-closest-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -503,6 +505,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GaurangNauriyal/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/GaurangNauriyal/DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
